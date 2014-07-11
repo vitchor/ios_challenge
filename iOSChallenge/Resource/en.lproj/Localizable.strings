@@ -1,0 +1,13 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"JSON_TITLE" = "Parsed JSON";
+"DEFAULT_MESSAGE" = "Trying to connect to server";
+"BUTTON_RETRY" = "Retry";
+"ORGANIZE_TITLE" = "Which attribute you want to sort";
+"CANCEL" = "Cancel";
+"AUTHORS" = "Author";
+"DATE" = "Date";
+"TITLE" = "Title";
+"WEBSITE" = "Website";
